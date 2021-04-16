@@ -1,0 +1,4 @@
+tensorflow==2.4.1
+Keras==2.4.3
+scikit-learn==0.24.1
+pillow==8.2.0
