@@ -148,3 +148,5 @@ Data/
 # Specific text files
 face_classes.txt
 yolo_anchors.txt
+*.pdf
+*.odt
